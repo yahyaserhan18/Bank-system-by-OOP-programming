@@ -1,0 +1,160 @@
+﻿  bankSystem.cpp
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsString.h(205,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsString.h(230,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsString.h(266,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsString.h(312,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsString.h(376,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsInputValidate.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsInputValidate.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUtil.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(7,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(156,32): warning C4240: nonstandard extension used: access to 'clsBankUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(121,10): message : see declaration of 'clsBankUser::stLoginRegisterRecord'
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(162,30): warning C4240: nonstandard extension used: access to 'clsBankUser::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(134,10): message : see declaration of 'clsBankUser::stTransferLogRecord'
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(285,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(291,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\global.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\global.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsClientListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsClientListScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddClientScreen.h(24,85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateClientScreen.h(20,87): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindClientScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindClientScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindClientScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindClientScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBalancesScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBalancesScreen.h(31,87): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransactionsScreen.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferLogScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferLogScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferLogScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsTransferLogScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsListUsersScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsListUsersScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsAddUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsDeleteUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsManageUsersScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(16,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginRegisterScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginRegisterScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginRegisterScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginRegisterScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsMainScreen.h(17,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrenciesList.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrenciesList.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrency.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrency.h(30,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindCurrencyScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindCurrencyScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindCurrencyScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsFindCurrencyScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateCurrencyScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateCurrencyScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateCurrencyScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsUpdateCurrencyScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyExchangeScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyCalculatorScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyCalculatorScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyCalculatorScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsCurrencyCalculatorScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsLoginScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(21,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\bankSystem.cpp(165,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankClient.h(253): warning C4715: 'clsBankClient::save': not all control paths return a value
+C:\Documents\abuHadhudCourses\abuH course11\bankSystem\clsBankUser.h(277): warning C4715: 'clsBankUser::save': not all control paths return a value
+  bankSystem.vcxproj -> C:\Documents\abuHadhudCourses\abuH course11\bankSystem\x64\Debug\bankSystem.exe
